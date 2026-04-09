@@ -1,5 +1,7 @@
 # MiniShell
 
+![MiniShell Demo](demo.gif)
+
 ## Description
 
 MiniShell is a project developed at 42 Paris in a team of two.  
