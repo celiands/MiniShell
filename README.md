@@ -37,5 +37,5 @@ cat file.txt | grep "pattern"
 
 ## Authors
 
-- Noâm Gauthreau--Massela  
+- Noam Gauthreau--Massela  
 - Celian de Segonzac
