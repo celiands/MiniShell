@@ -74,7 +74,7 @@ void	loop_minishell(char **env)
 	while (1)
 	{
 		siginit_minishell();
-		prompt = readline("C.H.E.P.A.>");
+		prompt = readline("MiniShell >");
 		g_sigstatus = 0;
 		if (!prompt)
 			builtin_exit(NULL, env);
